@@ -3,6 +3,8 @@
 |№   |Название|Описание|Инструменты| 
 |:--:|:--    |:---    |:--        |
 | <sup>__1__ | [<sup>__Исследование пользователей Яндекс Музыки__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/1_big_city_music) | <sup>Анализ музыкальных предпочтений пользователей Яндекс Музыки в Москве и Петербурге | `Pandas` |
+| <sup>__2__ | [<sup>__Исследование надежности заемщика__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/2_reliability_borrowers) | <sup>Анализ надежности заемщика на основе данных от банка | `Pandas` `Matplotlib` `Seaborn` |
+
 
 |№   |Область|Название|Описание|Инструменты| 
 |:--:| :--   | :--    |:---    |:--        |
