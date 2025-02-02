@@ -5,6 +5,7 @@
 | <sup>__1__ | [<sup>__Исследование пользователей Яндекс Музыки__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/1_big_city_music) | <sup>Анализ музыкальных предпочтений пользователей Яндекс Музыки в Москве и Петербурге | `Pandas` |
 | <sup>__2__ | [<sup>__Исследование надежности заемщика__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/2_reliability_borrowers) | <sup>Анализ надежности заемщика на основе данных от банка | `Pandas` `Matplotlib` `Seaborn` |
 | <sup>__3__ | [<sup>__Исследование рынка недвижимости__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/3_sale_apartments) | <sup>Анализ рыночной стоимости объектов недвижимости в Санкт-Петербурге | `Pandas` `Matplotlib` `Seaborn` `Numpy` `Datetime` |
+| <sup>__4__ | [<sup>__Исследование рынка российского кинопроката__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/4_cinema_market) | <sup>Анализ рынка российского кинопроката с фокусом на фильмы с государственной поддержкой | `Pandas` `Matplotlib` `Seaborn` `Numpy` `Datetime` |
 
 
 |№   |Область|Название|Описание|Инструменты| 
