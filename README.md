@@ -1,10 +1,11 @@
 ## Проекты по Machine Learning
 
 |№   |Название|Описание|Инструменты| 
-|:--:| :--   | :--    |:---    |:--        |
-| <sup>__1__ | [<sup>__Исследование рынка российского кинопроката__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/1_big_city_music) | <sup>Анализ музыкальных предпочтений пользователей Яндекс Музыки в Москве и Петербурге | `Pandas` `Numpy` `Matplotlib` `Seaborn` |
+|:--:|:--    |:---    |:--        |
+| <sup>__1__ | [<sup>__Исследование рынка российского кинопроката__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/1_big_city_music) | <sup>Анализ музыкальных предпочтений пользователей Яндекс Музыки в Москве и Петербурге | `Pandas` |
 
 |№   |Область|Название|Описание|Инструменты| 
+|:--:| :--   | :--    |:---    |:--        |
 | <sup>__2__ | <sup>Предобработка данных,<br>исследовательский анализ,<br>cтатистический анализ | [<sup>__Определение выгодного тарифа для телеком<br>оператора__](https://github.com/ArtemTolk/YPr_edu_projects/blob/main/Cellular_calling_plan_research) | <sup>Анализ использования тарифов на выборке абонентов,<br>Расчет показателей абонентов,<br>Проверка гипотез о различии выручки абонентов разных тарифов и разных регионов.| `Pandas` `Numpy` `Scipy` `Matplotlib` `Seaborn` |
 | <sup>__3__ | <sup>Предобработка данных,<br>исследовательский анализ данных,<br>модели классификации  | [<sup>__Прогнозирование оттока клиентов в сети отелей__](https://github.com/ArtemTolk/YPr_edu_projects/tree/main/Hotel_churn_predict) | <sup>Построение модели прогнозирования отказа клиентов от бронирования, описание портрета "ненадежного" клиента | `Pandas` `Numpy` `Matplotlib` `Seaborn` `Scikit-learn` |
 | <sup>__4__ | <sup>Линейная алгебра,<br>линейные модели   | [<sup>__Защита (анонимизация) персональных данных__](https://github.com/ArtemTolk/YPr_edu_projects/tree/main/Personal_data_modification) | <sup>Применение методов модификации (анонимизации) данных | `Pandas` `Numpy` `Scikit-learn` `Seaborn` |
