@@ -7,7 +7,7 @@
 | <sup>__3__ | [<sup>__Исследование рынка недвижимости__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/3_sale_apartments) | <sup>Анализ рыночной стоимости объектов недвижимости в Санкт-Петербурге | `Pandas` `Matplotlib` `Seaborn` `Numpy` `Datetime` |
 | <sup>__4__ | [<sup>__Исследование рынка российского кинопроката__](https://github.com/ru1701/Machine_Learning_Projects/tree/master/4_cinema_market) | <sup>Анализ рынка российского кинопроката с фокусом на фильмы с государственной поддержкой | `Pandas` `Matplotlib` `Seaborn` `Numpy` `Datetime` |
 
-
+<!--- 
 |№   |Область|Название|Описание|Инструменты| 
 |:--:| :--   | :--    |:---    |:--        |
 | <sup>__2__ | <sup>Предобработка данных,<br>исследовательский анализ,<br>cтатистический анализ | [<sup>__Определение выгодного тарифа для телеком<br>оператора__](https://github.com/ArtemTolk/YPr_edu_projects/blob/main/Cellular_calling_plan_research) | <sup>Анализ использования тарифов на выборке абонентов,<br>Расчет показателей абонентов,<br>Проверка гипотез о различии выручки абонентов разных тарифов и разных регионов.| `Pandas` `Numpy` `Scipy` `Matplotlib` `Seaborn` |
@@ -20,3 +20,4 @@
 | <sup>__9__ | <sup>Обработка текстов (NLP) и изображений (CV),<br>Transfer learning  | [<sup>__Поиск изображения по текстовому описанию__](https://github.com/ArtemTolk/YPr_edu_projects/tree/main/Natural_language_image_search) | <sup>Разработка модели поиска изображения по текстовому описанию с применением Transfer learning | `Pandas` `Numpy` `Tensorflow` `Keras` `Keras-tuner`  `Scikit-learn` `LightGBM` `CatBoost` `Optuna` `Transformers` `Matplotlib` `Seaborn` |
 | <sup>__10__ | <sup>Feature engineering,<br>Градиентный бустинг<br>FC нейронные сети  | [<sup>__Предсказание температуры расплава стали__](https://github.com/ArtemTolk/YPr_edu_projects/tree/main/Metal_melt_tempreture_predict) | <sup>Разработка модели предсказания температуры расплава стали в ковше после завершения цикла технологичнских операций | `Pandas` `Numpy` `SQL` `Scipy` `Tensorflow` `Keras` `Keras-tuner`  `Scikit-learn` `CatBoost` `Optuna` `Phik` `Matplotlib` `Seaborn` |
 | <sup>__11__ | <sup>Распределенные вычисления,<br>PySpark  | [<sup>__Предсказание медианной стоимости дома в жилом массиве__](https://github.com/ArtemTolk/YPr_edu_projects/tree/main/House_price_predict_PySpark) | <sup>Предсказание стоимости жилья (распределенные вычисления) | `Pandas` `Numpy` `PySpark` `Scikit-learn` |
+--->
